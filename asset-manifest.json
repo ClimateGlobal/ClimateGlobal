@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ClimateGlobal/static/css/main.364cf804.chunk.css",
+    "main.js": "/ClimateGlobal/static/js/main.53fa5210.chunk.js",
+    "runtime-main.js": "/ClimateGlobal/static/js/runtime-main.9ec5620d.js",
+    "static/css/2.9f6ca2ec.chunk.css": "/ClimateGlobal/static/css/2.9f6ca2ec.chunk.css",
+    "static/js/2.22082b2b.chunk.js": "/ClimateGlobal/static/js/2.22082b2b.chunk.js",
+    "index.html": "/ClimateGlobal/index.html",
+    "static/js/2.22082b2b.chunk.js.LICENSE.txt": "/ClimateGlobal/static/js/2.22082b2b.chunk.js.LICENSE.txt",
+    "static/media/NDGain-Map.20ed8014.PNG": "/ClimateGlobal/static/media/NDGain-Map.20ed8014.PNG",
+    "static/media/fonts.css": "/ClimateGlobal/static/media/Ubuntu-Regular.fbdecfce.ttf",
+    "static/media/climate-change.5377c275.jfif": "/ClimateGlobal/static/media/climate-change.5377c275.jfif",
+    "static/media/declining-sea-ice.8fe44a74.jpg": "/ClimateGlobal/static/media/declining-sea-ice.8fe44a74.jpg",
+    "static/media/dmg-done.41585218.jpg": "/ClimateGlobal/static/media/dmg-done.41585218.jpg",
+    "static/media/glacial-retreat.5fb69fb4.jpg": "/ClimateGlobal/static/media/glacial-retreat.5fb69fb4.jpg",
+    "static/media/map-pic.5914cc07.png": "/ClimateGlobal/static/media/map-pic.5914cc07.png",
+    "static/media/melting-ice.3983c0d9.jpg": "/ClimateGlobal/static/media/melting-ice.3983c0d9.jpg",
+    "static/media/melting-ice.9a07bdaa.jpg": "/ClimateGlobal/static/media/melting-ice.9a07bdaa.jpg",
+    "static/media/pic1-carousel.e38f0407.jpg": "/ClimateGlobal/static/media/pic1-carousel.e38f0407.jpg",
+    "static/media/pic2-carousel.ed9dfe55.jpg": "/ClimateGlobal/static/media/pic2-carousel.ed9dfe55.jpg",
+    "static/media/pic3-carousel.6521e637.jpg": "/ClimateGlobal/static/media/pic3-carousel.6521e637.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ec5620d.js",
+    "static/css/2.9f6ca2ec.chunk.css",
+    "static/js/2.22082b2b.chunk.js",
+    "static/css/main.364cf804.chunk.css",
+    "static/js/main.53fa5210.chunk.js"
+  ]
+}
